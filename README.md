@@ -39,6 +39,3 @@ This script allows you to retrieve and display Wi-Fi passwords for saved profile
 
 - Some antivirus software may flag this script due to its use of the `netsh` command-line tool. Use at your own risk.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
